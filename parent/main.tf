@@ -18,3 +18,5 @@ module "cont" {
   rg_name = "rajuchacha"
     storage_account_name = "rajustorageaccount"
 }
+
+
