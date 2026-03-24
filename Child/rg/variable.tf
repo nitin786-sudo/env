@@ -11,4 +11,4 @@ variable "rg_location" {
 
 ###firstchnage###
 
-##kyahuajolarichuti###
+###ashiqawarainrelease/1.0.0##
