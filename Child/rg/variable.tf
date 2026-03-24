@@ -8,3 +8,5 @@ variable "rg_location" {
   type        = string
   description = "The location of the resource group"
 }
+
+###firstchnage###
