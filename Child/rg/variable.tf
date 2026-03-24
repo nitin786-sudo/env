@@ -10,3 +10,5 @@ variable "rg_location" {
 }
 
 ###firstchnage###
+
+##kyahuajolarichuti###
